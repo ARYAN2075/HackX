@@ -1,37 +1,11 @@
-```markdown
-# HackX
 
-📢 Hackathon Submission Steps (GitHub)
+  # Futuristic Web App UI Design
 
-1️⃣ Fork the organization repo to your GitHub account.
+  This is a code bundle for Futuristic Web App UI Design. The original project is available at https://www.figma.com/design/1pZcxfnj6qd4JOkvoAiY5p/Futuristic-Web-App-UI-Design.
 
-2️⃣ Clone your fork:
-```
+  ## Running the code
 
-git clone <your-fork-link>
-cd repo-name
+  Run `npm i` to install the dependencies.
 
-```
-
-3️⃣ Open in VS Code → Create a folder:
-```
-
-TeamName_ProjectName
-
-```
-
-4️⃣ Put all your project files inside that folder only. (Don’t edit other folders ❌)
-
-5️⃣ In terminal:
-```
-
-git add .
-git commit -m "Hackathon Submission: TeamName_ProjectName"
-git push origin main
-
-```
-
-6️⃣ Go to your fork on GitHub → Click Compare & Pull Request → Create PR to the main branch of the original repo.
-
-✅ Done. Make sure PR is successfully created.
-```
+  Run `npm run dev` to start the development server.
+  
